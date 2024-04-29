@@ -1,0 +1,39 @@
+<resources>
+    <!--Pantalla del mainActivity-->
+    <string name="app_name">EjerciciosIntent</string>
+    <string name="txtView_Titulo">Lista de ejercicios</string>
+    <string name="btn_Mensaje">Mostrar un Mensaje en un TextView.</string>
+    <string name="btn_Navegacion">Navegación entre Actividades.</string>
+    <string name="btn_Compartir">Compartir Contenido.</string>
+    <string name="btn_Llamada">Realizar una Llamada.</string>
+    <string name="btn_WebPage">Abrir una Página Web.</string>
+    <string name="btn_Correo">Envío de Correo Electrónico.</string>
+    <string name="btn_Imagen">Compartir Imágenes.</string>
+
+    <!--Textos de la pantalla del Ejercicio3-->
+    <string name="ejercicio3">Ejercicio3</string>
+    <string name="btn_CompartirContenido">Compartir Contenido</string>
+    <string name="btn_Llamar">Llamar</string>
+
+    <!--Textos de la pantalla del Ejercicio4-->
+    <string name="hint_NumTelefono">Ingrese el número de teléfono</string>
+    <string name="ejercicio4">Ejercicio4</string>
+    <string name="btn_AbrirURL">Abrir página web</string>
+
+    <!--Textos de la pantalla del Ejercicio5-->
+    <string name="ejercicio5">Ejercicio5</string>
+    <string name="hint_URL">Ingrese la url a buscar:</string>
+
+    <!--Textos de la pantalla del Ejercicio6-->
+    <string name="ejercicio6">Ejercicio6</string>
+    <string name="enviar_correo">Enviar correo</string>
+    <string name="ingresa_destinatario">Ingresa el destinatario</string>
+    <string name="ingresa_asunto">Ingresa el asunto</string>
+    <string name="ingresa_cuerpo">Ingresa el cuerpo del correo</string>
+
+    <!--Textos de la pantalla del Ejercicio7-->
+    <string name="ejercicio7">Ejercicio7</string>
+    <string name="btn_EnviarFoto">Enviar foto</string>
+    <string name="img_Floppa">Imagen de Floppa</string>
+
+</resources>
